@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`df1b9fd`](https://github.com/aupenaditella/my-package-with-semver/commit/df1b9fdc0c2dcc04a2b0351091f6885051af2f8d))
+
+
 ## v1.1.0 (2026-05-16)
 
 ### Bug Fixes
