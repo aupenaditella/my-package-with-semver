@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`a7b0a2e`](https://github.com/aupenaditella/my-package-with-semver/commit/a7b0a2e5bfc124638c630e206dc239fb5c18c343))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
